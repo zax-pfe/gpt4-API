@@ -1,6 +1,3 @@
-# from textwrapper import TextWrapper
-
-
 import openai
 
 def open_file(filepath):
